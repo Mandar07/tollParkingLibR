@@ -18,4 +18,8 @@ for the car type :
 - EltCar20kw for ELECTRIC CAR with 20KW
 - EltCar50kw for  ELECTRIC CAR with 50KW
 
+   ### Example: /toll-parking/entryparking/car_platenumber/car_type
+
 4. leaveParking: The parking slot is freed and a parking bill is created for the current pricing policy
+
+   ### Example: /toll-parking/exitparking/car_platenumber
